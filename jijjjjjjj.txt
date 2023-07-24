@@ -1,0 +1,65 @@
+!DOCTYPE html>
+<html>
+<head>
+    <title>RanFa.Li的个人主页</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        h1 {
+            margin: 0;
+        }
+        
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>欢迎来到我的个人主页</h1>
+    </header>
+    <main>
+        <h2>Who is me?</h2>
+        <p>你好！我是Ran.
+        Fa.Li，一名鸡你太美。我对蔡徐坤 感兴趣，喜欢唱跳rap打篮球。</p>
+        
+        <h2>鸡</h2>
+        <ul>
+            <li>鸡</li>
+            <li>你</li>
+            <li>太美~</li>
+        </ul>
+        
+        <h2>联系方式</h2>
+        <p>邮箱：RanFa.Li86@outlook.com</p>
+        <p>电话:Null</p>
+    </main>
+    <footer>
+        你干嘛啊诶呦~
+    </footer>
+</body>
+</html>
